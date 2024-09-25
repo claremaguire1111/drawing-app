@@ -1,5 +1,6 @@
 import turtle as turtle
 
+# Drawing multiple lines in different colors to form a hexagon
 turtle.pencolor("green")
 turtle.forward(100)
 turtle.right(60)
@@ -24,5 +25,6 @@ turtle.pencolor("black")
 turtle.forward(100)
 turtle.right(60)
 
-# Add this to keep the window open
+# Ensures the window stays open
 turtle.done()
+
