@@ -23,3 +23,5 @@ turtle.right(60)
 turtle.pencolor("black")
 turtle.forward(100)
 turtle.right(60)
+
+turtle.done()  # Add this to keep the window open
